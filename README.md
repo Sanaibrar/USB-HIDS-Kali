@@ -10,7 +10,4 @@ Kali Linux based USB Host Intrusion Detection System
 ### 💻 Tech Stack:
 - Kali Linux
 - Python/Bash Scripting
-- USB Monitoring
-
-### 📌 Note:
-Windows port version coming soon!
+- USB Monitoring 
