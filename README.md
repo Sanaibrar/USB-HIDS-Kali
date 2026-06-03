@@ -1,8 +1,6 @@
 # USB-HIDS-Kali 🔐
 
-Kali Linux based USB Host Intrusion Detection System  
-Built for PKCERT Internship 2026
-
+Kali Linux based USB Host Intrusion Detection System 
 ### ✨ Key Features:
 1. **Detect** - Unauthorized USB device detection
 2. **Block** - Auto-block malicious USB instantly
